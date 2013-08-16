@@ -3,3 +3,5 @@
 
 * Lightning Talk
 This is a talk about [[http://en.wikipedia.org/wiki/Emacs][Emacs]].
+
+If people in the back can not read this: =C-x C-+=.
