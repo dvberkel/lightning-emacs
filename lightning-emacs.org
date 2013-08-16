@@ -1,0 +1,5 @@
+#+title Ligthning Emacs
+#+author Daan van Berkel
+
+* Lightning Talk
+This is a talk about [[http://en.wikipedia.org/wiki/Emacs][Emacs]].
