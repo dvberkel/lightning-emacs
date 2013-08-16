@@ -5,3 +5,7 @@
 This is a talk about [[http://en.wikipedia.org/wiki/Emacs][Emacs]].
 
 If people in the back can not read this: =C-x C-+=.
+
+** Why a Lightning Talk
+1. Share knowledge
+2. Entice audience
