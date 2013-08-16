@@ -9,3 +9,9 @@ If people in the back can not read this: =C-x C-+=.
 ** Why a Lightning Talk
 1. Share knowledge
 2. Entice audience
+** Emacs
+Text editor extraordinaire
+
+1. Mouseless
+2. Feature rich
+2. Extensible
