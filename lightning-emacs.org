@@ -1,4 +1,4 @@
-#+title Ligthning Emacs
+#+title Lightning Emacs
 #+author Daan van Berkel
 
 * Lightning Talk
