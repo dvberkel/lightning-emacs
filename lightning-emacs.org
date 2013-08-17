@@ -34,3 +34,21 @@ Text editor extraordinaire
 | Meron  |  10.00 |
 | Paul   |  10.00 |
 | Mink   |  10.00 |
+*** TODO show code evalutation functionality
+
+#+BEGIN_SRC js
+function to_i(n) {
+  n = parseInt(n || 1);
+  if (isNaN(n)) {
+    n = 1;
+  }
+  return n;
+}
+console.log(to_i("37"));
+console.log(to_i("not a number"));
+#+END_SRC
+
+#+RESULTS:
+: 37
+: 1
+: undefined
