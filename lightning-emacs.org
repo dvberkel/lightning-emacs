@@ -26,3 +26,11 @@ Text editor extraordinaire
 [[http://orgmode.org/][Org-mode]] is a major mode for emacs.
 
 *** TODO show TODO functionality
+*** TODO show tables functionality
+
+| Person | Amount |
+|--------+--------|
+| Daan   | -50.00 |
+| Meron  |  10.00 |
+| Paul   |  10.00 |
+| Mink   |  10.00 |
