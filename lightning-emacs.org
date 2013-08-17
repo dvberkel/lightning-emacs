@@ -36,6 +36,8 @@ Text editor extraordinaire
 | Mink   |  10.00 |
 *** TODO show code evalutation functionality
 
+Evaluate following code block with =C-c C-c=
+
 #+BEGIN_SRC js
 function to_i(n) {
   n = parseInt(n || 1);
@@ -47,8 +49,3 @@ function to_i(n) {
 console.log(to_i("37"));
 console.log(to_i("not a number"));
 #+END_SRC
-
-#+RESULTS:
-: 37
-: 1
-: undefined
