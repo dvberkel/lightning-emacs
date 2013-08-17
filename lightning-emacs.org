@@ -20,7 +20,8 @@ Text editor extraordinaire
 
 1. Mouseless
 2. Feature rich
-3. Extendable
+3. Configurable
+4. Extendable
 ** Org-mode
 [[http://orgmode.org/][Org-mode]] is a major mode for emacs.
 
