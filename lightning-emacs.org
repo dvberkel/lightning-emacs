@@ -1,5 +1,5 @@
 #+title Lightning Emacs
-n#+author Daan van Berkel
+#+author Daan van Berkel
 
 * Lightning Talk
 This is a talk about [[http://en.wikipedia.org/wiki/Emacs][Emacs]].
@@ -21,3 +21,5 @@ Text editor extraordinaire
 1. Mouseless
 2. Feature rich
 2. Extendable
+** Org-mode
+[[http://orgmode.org/][Org-mode]] is a major mode for emacs.
