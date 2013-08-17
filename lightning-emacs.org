@@ -20,4 +20,4 @@ Text editor extraordinaire
 
 1. Mouseless
 2. Feature rich
-2. Extensible
+2. Extendable
