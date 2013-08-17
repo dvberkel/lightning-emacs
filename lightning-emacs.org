@@ -1,10 +1,16 @@
 #+title Lightning Emacs
-#+author Daan van Berkel
+n#+author Daan van Berkel
 
 * Lightning Talk
 This is a talk about [[http://en.wikipedia.org/wiki/Emacs][Emacs]].
 
 If people in the back can not read this: =C-x C-+=.
+
+I have 5 minutes so lets set a timer
+
+#+BEGIN_SRC elisp :results silent
+(org-timer-set-timer)
+#+END_SRC
 
 ** Why a Lightning Talk
 1. Share knowledge
