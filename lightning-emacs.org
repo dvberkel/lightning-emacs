@@ -23,3 +23,5 @@ Text editor extraordinaire
 3. Extendable
 ** Org-mode
 [[http://orgmode.org/][Org-mode]] is a major mode for emacs.
+
+*** TODO show TODO functionality
