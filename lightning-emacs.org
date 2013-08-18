@@ -39,7 +39,7 @@ Text editor extraordinaire
 
 Evaluate following code block with =C-c C-c=
 
-#+BEGIN_SRC js
+#+BEGIN_SRC js :tangle to_i.js :padline no :shebang "#! /usr/bin/env node"
 function to_i(n) {
   n = parseInt(n || 1);
   if (isNaN(n)) {
@@ -52,3 +52,5 @@ console.log(to_i("not a number"));
 #+END_SRC
 *** TODO show export functionality
 Org documents can be exported to various formats: =C-c C-e=
+*** TODO show tangle functionality
+Source blocks can be tangled: =C-c C-v t=
