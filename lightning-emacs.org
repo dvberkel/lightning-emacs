@@ -1,5 +1,6 @@
-#+title Lightning Emacs
-#+author Daan van Berkel
+#+TITLE Lightning Emacs
+#+AUTHOR Daan van Berkel
+#+DESCRIPTION A Lightning Talk about Emacs
 
 * Lightning Talk
 This is a talk about [[http://en.wikipedia.org/wiki/Emacs][Emacs]].
@@ -49,3 +50,5 @@ function to_i(n) {
 console.log(to_i("37"));
 console.log(to_i("not a number"));
 #+END_SRC
+*** TODO show export functionality
+Org documents can be exported to various formats: =C-c C-e=
