@@ -54,3 +54,17 @@ console.log(to_i("not a number"));
 Org documents can be exported to various formats: =C-c C-e=
 *** TODO show tangle functionality
 Source blocks can be tangled: =C-c C-v t=
+** Other features
+Emacs has other usefull features besides Org-mode
+*** Help
+Extensive help is available within emacs
+*** Dired
+Directory browerser
+*** Shell
+Run a shell within emacs
+*** Calc
+Very powerful calculator
+*** Syntax highlighting
+Standard for all popular languages
+*** Amusement
+Think bubbles, tetris or blackbox
