@@ -59,7 +59,7 @@ Emacs has other usefull features besides Org-mode
 *** Help
 Extensive help is available within emacs
 *** Dired
-Directory browerser
+Directory browser
 *** Shell
 Run a shell within emacs
 *** Calc
